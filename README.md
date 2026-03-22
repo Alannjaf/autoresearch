@@ -72,42 +72,14 @@ The skill handles the loop, git tracking, mutation strategy, and reporting.
 
 ---
 
-## Free vs Pro
-
-| Feature | Free | Pro ($99) |
-|---------|------|-----------|
-| Core autoresearch loop | ✅ | ✅ |
-| Git experiment tracking | ✅ | ✅ |
-| Generic eval template | ✅ | ✅ |
-| SKILL.md instructions | ✅ | ✅ |
-| **Trading backtest harness** | — | ✅ |
-| **LLM judge calibration** (content) | — | ✅ |
-| **Vision scoring** (thumbnails) | — | ✅ |
-| **Pre-built mutation strategies** | — | ✅ |
-| **Priority support** | — | ✅ |
-
-### Pro Tier — $99 USDT
-
-Includes pre-built evaluators for:
-- **Trading**: Backtest harness with Sharpe ratio, max drawdown, win rate scoring
-- **Content**: Calibrated LLM judge with multi-criteria scoring (hook, pacing, clarity, engagement)
-- **Thumbnails**: Vision model scoring for contrast, text readability, face detection, emotional impact
-
-**To purchase:**
-1. Send **$99 USDT (TRC-20)** to: `TYMGjMAs3t5qaEU5xBqLQNpnGeLQ4G6gmM`
-2. DM [@Alan_Jaf on Telegram](https://t.me/Alan_Jaf) with your transaction hash
-3. Get access within 24 hours
-
----
-
 ## Links
 
 - **GitHub**: [github.com/Alannjaf/autoresearch](https://github.com/Alannjaf/autoresearch)
-- **ClawHub**: `clawhub install alannjaf/autoresearch`
-- **Support**: [@Alan_Jaf on Telegram](https://t.me/Alan_Jaf)
+- **ClawHub**: `clawhub install Alannjaf/karpathy-autoresearch`
+- **Questions?** [@Alan_Jaf on Telegram](https://t.me/Alan_Jaf)
 
 ---
 
 ## License
 
-MIT — use it however you want. If it makes you money, consider the Pro tier. 🤝
+MIT — free forever. Use it however you want. 🤝
